@@ -1,0 +1,29 @@
+{
+    "name": "dynamic-webserver",
+    "version": "0.0.0",
+    "description": "Dynamic Web Server using Node JS",
+    "author": {
+        "name": "Tucker Johnson",
+        "email": "john5653@stthomas.edu"
+    },
+    "contributors": [
+        {
+            "name": "Mike Twohy",
+            "email": "twoh7612@stthomas.edu"
+        },
+        {
+            "name": "Kong Pheng Thao",
+            "email": "kpthao@stthomas.edu"
+        }
+    ],
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tuck1297/DynamicServerProject"
+    },
+    "dependencies": {
+        "canvasjs": "^1.8.3",
+        "express": "^4.18.2",
+        "sqlite3": "^5.1.2"
+    }
+}
