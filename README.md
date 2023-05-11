@@ -22,6 +22,8 @@ In terms of usefulness, this project can have a major impact. By using this appl
     /state/:state
 ```
 
+---
+
 ## Plug and Play
 
 ### This project is hosted online. You can check it out [here](https://renewable-energy.onrender.com). 
@@ -41,3 +43,19 @@ If you want to run it in your local environment take a look at the requirements 
     - 1. Install Dependencies: ``` npm install ```
     - 2. Run Project: ``` Node server.js ```
 4. Go to desired browser and go to following url: localhost:8000/homepage
+
+---
+
+## Tools and Languages Used 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" **alt="Gimp" width="60" height="60"/>
+  <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/foundation.svg" title="Foundation" **alt="Foundation" width="60" height="60"/>
+</div>
